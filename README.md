@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-boilerplate
 
 Simple react starter with the following config:
@@ -28,3 +29,7 @@ To build and deploy your app to `gh-pages` branch on the GitHub repo:
 ```bash
 yarn deploy
 ```
+=======
+# react-search-gifs
+First React App to search gifs from giphy Api
+>>>>>>> 01d370978672294ccae7cfe042063196ac9786e3
